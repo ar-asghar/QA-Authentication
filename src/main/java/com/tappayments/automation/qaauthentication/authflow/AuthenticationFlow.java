@@ -72,7 +72,7 @@ public class AuthenticationFlow {
 // Frictionless: 5200000000002276
 
 // ------Cybersource
-// key : test key
+// Key: test
 // OMR currency
 // VISA:
 // Challenge: 4000000000002503
